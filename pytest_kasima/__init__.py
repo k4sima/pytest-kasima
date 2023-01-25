@@ -10,7 +10,7 @@ def pytest_addoption(parser):
     group.addoption(
         "--kasima-skip",
         action="store_true",
-        help="kasima_pytest_pluginを無効にする",
+        help="pytest-kasima を無効にする",
     )
 
 

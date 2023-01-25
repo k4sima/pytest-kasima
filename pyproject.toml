@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "pytest-kasima"
-version = "0.1.0"
+name = "pytest_kasima"
+version = "0.1.2"
 description = ""
 authors = ["k4sima_0 <44926913+k4sima@users.noreply.github.com>"]
 readme = "README.md"
