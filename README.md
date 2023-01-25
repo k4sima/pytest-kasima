@@ -1,6 +1,8 @@
 [![PyPI version](https://badge.fury.io/py/pytest-kasima.svg)](https://badge.fury.io/py/pytest-kasima)
 [![Python Versions](https://img.shields.io/pypi/pyversions/pytest-kasima.svg)](https://pypi.org/project/pytest-kasima)
 
+![](./screenshot.png)
+
 # pytest-kasima
 
 ## install
