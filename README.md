@@ -1,5 +1,5 @@
-[![PyPI version](https://badge.fury.io/py/pytest-kasima.svg)](https://badge.fury.io/py/pytest-kasima)
-[![Python Versions](https://img.shields.io/pypi/pyversions/pytest-kasima.svg)](https://pypi.org/project/pytest-kasima)
+[![PyPI version](https://badge.fury.io/py/pytest_kasima.svg)](https://badge.fury.io/py/pytest_kasima)
+[![Python Versions](https://img.shields.io/pypi/pyversions/pytest_kasima.svg)](https://pypi.org/project/pytest_kasima)
 
 # pytest-kasima
 
