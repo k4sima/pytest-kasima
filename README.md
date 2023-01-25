@@ -1,11 +1,12 @@
-# kasima_pytest_plugin
+[![PyPI version](https://badge.fury.io/py/kasima-pytest-plugin.svg)](https://badge.fury.io/py/kasima-pytest-plugin)
+[![Python Versions](https://img.shields.io/pypi/pyversions/kasima-pytest-plugin.svg)](https://pypi.org/project/kasima-pytest-plugin)
 
-自分用 pytest プラグイン
+# kasima_pytest_plugin
 
 ## インスコ
 
 ```
-pip install git+https://github.com/k4sima/kasima_pytest_plugin.git
+pip install kasima-pytest-plugin
 ```
 
 ## 使い方
