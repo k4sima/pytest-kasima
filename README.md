@@ -1,15 +1,18 @@
-[![PyPI version](https://badge.fury.io/py/kasima-pytest-plugin.svg)](https://badge.fury.io/py/kasima-pytest-plugin)
-[![Python Versions](https://img.shields.io/pypi/pyversions/kasima-pytest-plugin.svg)](https://pypi.org/project/kasima-pytest-plugin)
+[![PyPI version](https://badge.fury.io/py/pytest-kasima.svg)](https://badge.fury.io/py/pytest-kasima)
+[![Python Versions](https://img.shields.io/pypi/pyversions/pytest-kasima.svg)](https://pypi.org/project/pytest-kasima)
 
-# kasima_pytest_plugin
+# pytest-kasima
 
-## インスコ
+## install
 
 ```
-pip install kasima-pytest-plugin
+pip install pytest-kasima
 ```
 
-## 使い方
+## usage
 
-- デフォルトでキャプチャした出力を最後に分かりやすく囲って表示する
-  - `--kasima-skip` - off にする
+Display horizontal lines above and below the captured standard output for easy viewing.
+
+### options
+
+- `--kasima-skip` - disable

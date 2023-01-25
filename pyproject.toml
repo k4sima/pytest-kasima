@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "kasima_pytest_plugin"
+name = "pytest-kasima"
 version = "0.1.0"
 description = ""
 authors = ["k4sima_0 <44926913+k4sima@users.noreply.github.com>"]
 readme = "README.md"
-packages = [{ include = "kasima_pytest_plugin" }]
+packages = [{ include = "pytest_kasima" }]
 
 [tool.poetry.dependencies]
 python = "^3.10"
@@ -27,7 +27,7 @@ warn_unused_ignores = true
 testpaths = ["tests"]
 
 [tool.poetry.plugins.pytest11]
-kasima = "kasima_pytest_plugin"
+kasima = "pytest_kasima"
 
 [build-system]
 requires = ["poetry-core"]
