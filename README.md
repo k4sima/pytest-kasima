@@ -3,7 +3,7 @@
 
 # pytest-kasima
 
-![normal](./screenshots/normal.png)
+![normal](https://github.com/k4sima/pytest-kasima/blob/main/screenshots/normal.png?raw=true)
 
 ## install
 
@@ -13,7 +13,7 @@ pip install pytest-kasima
 
 If you're a fan of [rich library](https://github.com/Textualize/rich), can integrate
 
-![with_rich](./screenshots/rich.png)
+![with_rich](https://github.com/k4sima/pytest-kasima/blob/main/screenshots/rich.png?raw=true)
 
 ```
 pip install pytest-kasima[rich]
