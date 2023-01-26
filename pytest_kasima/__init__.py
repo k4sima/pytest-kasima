@@ -8,7 +8,7 @@ class NormalPrinter:
     option = [
         (
             ("--kasima-skip",),
-            {"action": "store_true", "help": "pytest-kasima を無効にする"},
+            {"action": "store_true", "help": "disable pytest-kasima output"},
         )
     ]
 
@@ -29,7 +29,7 @@ try:
         option = NormalPrinter.option + [
             (
                 ("--kasima-rich-skip",),
-                {"action": "store_true", "help": "rich を使った出力を無効にする"},
+                {"action": "store_true", "help": "disable rich output"},
             )
         ]
 

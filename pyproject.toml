@@ -2,7 +2,7 @@
 name = "pytest_kasima"
 repository = "https://github.com/k4sima/pytest-kasima"
 homepage = "https://github.com/k4sima/pytest-kasima"
-version = "0.1.4"
+version = "0.1.5"
 description = "Display horizontal lines above and below the captured standard output for easy viewing."
 authors = ["k4sima <44926913+k4sima@users.noreply.github.com>"]
 license = "MIT"
