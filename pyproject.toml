@@ -1,9 +1,23 @@
 [tool.poetry]
 name = "pytest_kasima"
-version = "0.1.3"
-description = ""
-authors = ["k4sima_0 <44926913+k4sima@users.noreply.github.com>"]
+repository = "https://github.com/k4sima/pytest-kasima"
+homepage = "https://github.com/k4sima/pytest-kasima"
+version = "0.1.4"
+description = "Display horizontal lines above and below the captured standard output for easy viewing."
+authors = ["k4sima <44926913+k4sima@users.noreply.github.com>"]
+license = "MIT"
 readme = "README.md"
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: MacOS",
+    "Operating System :: POSIX :: Linux",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Information Technology",
+    "Intended Audience :: System Administrators",
+    "Intended Audience :: Science/Research",
+]
 packages = [{ include = "pytest_kasima" }]
 
 [tool.poetry.dependencies]
