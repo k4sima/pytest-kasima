@@ -22,6 +22,7 @@ pip install pytest-kasima[rich]
 ## usage
 
 Display horizontal lines above and below the captured standard output for easy viewing.
+
 `--capture=no` or `-s` option is not required.
 
 ### options
